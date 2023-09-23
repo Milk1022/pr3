@@ -5,5 +5,5 @@ fun main() {
     val binary: String = Integer.toBinaryString(n)
 
     println(binary)
-    println()
+
 }
